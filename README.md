@@ -34,7 +34,7 @@ apt install python -pip
 pip install responses
 pkg install git
 git clone https://github.com/shade234sherif/bio-replika
-pip install requirements.txt
+pip install -r requirements.txt
 cd bio-replika
 python3 bio.py
 
@@ -49,7 +49,7 @@ python3 bio.py
 ## Installation for kali
 
 * sudo git clone https://github.com/shade234sherif/bio-replika
-* pip install requirements.txt
+* pip install -r requirements.txt
 * cd bio-replika
 * python3 bio.py
 
