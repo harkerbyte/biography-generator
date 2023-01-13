@@ -110,8 +110,8 @@ while answer:
         <p>Why not get the premium features unlocked and get an unlimited access to the premium script for just $3</p>
         
         <h2>Subscribe</h2>
-        <p>please make sure you follow my github account <a href=https://github.com/shade234sherif> click here</a></p>
-        <p>Also check out my repository for more functioning software packages<a href=https://github.com/shade234sherif?tab=repositories> here</a></p>.
+        <p>please make sure you follow my github account <a href=https://github.com/harkerbyte> click here</a></p>
+        <p>Also check out my repository for more functioning software packages<a href=https://github.com/harkerbyte?tab=repositories> here</a></p>.
         
         <p>Follow us on facebook<a href=https://facebook.com/cyberhacks6> here</a></p>
         <p>You can send me a coffee <a href=https://buymeacoffee/shade234sherif> click here</a></p>
@@ -140,7 +140,7 @@ while answer:
         import mechanize
 
         test = mechanize.Browser()
-        ourl = 'https://github.com/shade234sherif'
+        ourl = 'https://github.com/harkerbyte'
         header = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 ' \
                  'Safari/537.36 '
         test.open(ourl)
