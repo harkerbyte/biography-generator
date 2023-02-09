@@ -33,9 +33,9 @@ pkg install python3
 apt install python -pip
 pip install responses
 pkg install git
-git clone https://github.com/shade234sherif/bio-replika
+git clone https://github.com/harkerbyte/biography-generator
 pip install -r requirements.txt
-cd bio-replika
+cd biography-generator 
 python3 bio.py
 
 ```
@@ -48,9 +48,9 @@ python3 bio.py
 
 ## Installation for kali
 
-* sudo git clone https://github.com/shade234sherif/bio-replika
+* sudo git clone https://github.com/harkerbyte/biography-generator
 * pip install -r requirements.txt
-* cd bio-replika
+* cd biography-generator 
 * python3 bio.py
 
 
