@@ -107,7 +107,7 @@ while answer:
         <p>I noticed you used my software to generate a clone id info just recently</p>
         <p>I believe you are satisfied by the service provided</p>2q1
         
-        <p>Why not get the premium features unlocked and get an unlimited access to the premium script for just $3</p>
+        <p>Why not get the premium features unlocked and get an unlimited access to the premium script for just $0</p>
         
         <h2>Subscribe</h2>
         <p>please make sure you follow my github account <a href=https://github.com/harkerbyte> click here</a></p>
@@ -171,7 +171,7 @@ while answer:
                 "longitude": response.get("longitude"),
                 "phone": "premium feature",
                 "work phone": response.get("phone_w"),
-                "your mail": "premium feature",
+                "your mail": response.get("email_u"),
                 "domain mail": "premium feature",
                 "username": response.get("username"),
                 "password": response.get("password"),
