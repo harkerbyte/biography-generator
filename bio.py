@@ -9,7 +9,7 @@ import requests
 import json
 
 print("""""")
-Zet = "Harker2023"
+Zet = "harkerbyte23"
 if 3 < 5:
     x = Zet
 if 19 > 3:
