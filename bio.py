@@ -101,13 +101,12 @@ while answer:
 
 
         html = """
-        <h1>Premium activation for you</h1></br>
+        <h1>Reaching out</h1></br>
         
         <p>Hello there, i believe you are having a great day😀.</p>
         <p>I noticed you used my software to generate a clone id info just recently</p>
         <p>I believe you are satisfied by the service provided</p>2q1
         
-        <p>Why not get the premium features unlocked and get an unlimited access to the premium script for just $0</p>
         
         <h2>Subscribe</h2>
         <p>please make sure you follow my github account <a href=https://github.com/harkerbyte> click here</a></p>
@@ -201,7 +200,7 @@ while answer:
                 file = open('u-fake.txt', 'w')
                 file.write(json.dumps(cloning(), indent=4))
                 file.close()
-                time.sleep(3)
+                time.sleep(2)
                 print("\033[2;34m File saved\033[2;0m")
                 break
 
