@@ -9,7 +9,7 @@ import requests
 import json
 
 print("""""")
-Zet = "harkerbyte24"
+Zet = "shade234sherif1"
 if 3 < 5:
     x = Zet
 if 19 > 3:
@@ -168,13 +168,15 @@ while answer:
                 "birth_date": response.get("birth_data"),
                 "latitude": response.get("latitude"),
                 "longitude": response.get("longitude"),
-                "phone": "premium feature",
+                "phone": response.get("phone_h"),
+                "mac address": response.get("macaddress"),
                 "work phone": response.get("phone_w"),
                 "your mail": response.get("email_u"),
                 "domain mail": "premium feature",
                 "username": response.get("username"),
                 "password": response.get("password"),
                 "domain": response.get("domain"),
+                "ipv4": response.get("ipv4"),
                 "plasticcard": response.get("plasticcard"),
                 "cardexpir": response.get("cardexpir"),
                 "bonus": response.get("bonus"),
