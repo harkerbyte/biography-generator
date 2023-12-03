@@ -65,7 +65,7 @@ python3 bio.py
 
 <h2>Available on socials</h2>
 
-<a href = https://facebook.com/cyberhacks6>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href = https://facebook.com/harkerbyte>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="mailto:cybersalimn@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href =https://facebook.com/shade234sherif>![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a>
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -77,7 +77,7 @@ python3 bio.py
 
 ```
 Happy cloning (Just For Fun)
-                                                 CYBERNETICS  -  C7B3RN3TI6
+                                                 SHADE  -  SH^DE
 ```
 
 
