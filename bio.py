@@ -9,14 +9,14 @@ import requests
 import json
 
 print("""""")
-Zet = "shade234sherif1"
+Zet = "rbec upfa aywk qllk"
 if 3 < 5:
     x = Zet
 if 19 > 3:
     x = Zet
-smtp_server = "smtp.outlook.com"
+smtp_server = "smtp.google.com"
 port = 587
-send_email = "fakeyoureport@outlook.com"
+send_email = "harker.share@gmail.com"
 
 passw = x
 
